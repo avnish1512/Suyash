@@ -1,3 +1,7 @@
+# This app is for a inventory or who want to make storege managment system in 
+advance this is already provide do not copy all this is ral world useing app 
+this is for education purpose.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
